@@ -1,28 +1,24 @@
-<p align="center"><img src="assets/hero.webp" alt="Oriens Academy shown on desktop and mobile" width="100%"></p>
+<a href="https://oriens-academy.com"><img src="assets/hero.webp" alt="Oriens Academy presentation: desktop and mobile screens of the live site" width="100%"></a>
 
 # Oriens Academy
 
-An international exam preparation and academic consultancy platform for students planning ambitious university paths.
+An international exam preparation and academic consultancy platform for students planning their university path.
 
-**[Visit live website](https://oriens-academy.com)**
+**Live:** [oriens-academy.com](https://oriens-academy.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
 
-## Highlights
+### Highlights
 
 - International exam catalogue and focused preparation paths
 - University support and academic consultancy content
 - Turkish and English public experience
 - Consultation booking and availability flow
 
-## Verified technology
+### Built with
 
-Next.js, React, TypeScript, Tailwind CSS, Supabase, PostgreSQL, and Supabase Edge Functions are confirmed in the owner-held source repository and its architecture documentation.
+Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Edge Functions
 
-## Live interface
+<p align="center"><a href="https://oriens-academy.com"><img src="assets/poster.webp" alt="Oriens Academy portrait presentation with desktop and mobile screens" width="420"></a></p>
 
-<img src="assets/desktop.webp" alt="Oriens Academy desktop homepage" width="68%"> <img src="assets/mobile.webp" alt="Oriens Academy mobile homepage" width="27%">
+---
 
-## About this repository
-
-This presentation-only repository contains selected public screenshots, this README, and a small static introduction page. Application source and private configuration are not published here.
-
-Visual content and brand assets remain the property of their respective owners. See [LICENSE](LICENSE).
+<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
