@@ -1,10 +1,10 @@
-<a href="https://oriens-academy.com"><img src="assets/hero.webp" alt="Oriens Academy presentation: desktop and mobile screens of the live site" width="100%"></a>
+<a href="https://oriens-academy.com"><img src="assets/cover.webp" alt="Oriens Academy: real desktop and mobile screens of oriens-academy.com" width="100%"></a>
 
 # Oriens Academy
 
 An international exam preparation and academic consultancy platform for students planning their university path.
 
-**Live:** [oriens-academy.com](https://oriens-academy.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit oriens-academy.com ↗︎](https://oriens-academy.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -17,8 +17,12 @@ An international exam preparation and academic consultancy platform for students
 
 Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Edge Functions
 
-<p align="center"><a href="https://oriens-academy.com"><img src="assets/poster.webp" alt="Oriens Academy portrait presentation with desktop and mobile screens" width="420"></a></p>
+### Screens
+
+<a href="https://oriens-academy.com"><img src="assets/desktop.webp" alt="Oriens Academy desktop: real screen of oriens-academy.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="Oriens Academy on a phone: real mobile screen of oriens-academy.com" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
